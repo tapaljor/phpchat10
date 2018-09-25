@@ -1,1 +1,3 @@
-Things are to be used and people are to be loved.
+<php
+
+echo " Things are to be used and people are to be loved.";
